@@ -1,10 +1,10 @@
-### Hi there 👋 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="100"/>
+### <div id="header" align="center">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="150"/>
 </div>
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
 
 ---
@@ -26,7 +26,5 @@
 ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UskovaKate&theme=dark&border_radius=6&date_format=j%20M%5B%20Y%5D&fire=F71FFF&border=DDDDDD&ring=B464DD&currStreakLabel=B464DD&background=05021E)](https://git.io/streak-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=UskovaKate&theme=dark&border_radius=6&locale=ru&date_format=j%20M%5B%20Y%5D&fire=F71FFF&border=DDDDDD&ring=B464DD&currStreakLabel=B464DD&background=05021E)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UskovaKate&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
